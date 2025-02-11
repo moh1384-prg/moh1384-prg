@@ -45,7 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moh1384-prg" height="220" alt="streak graph"  />
+  <img align="center" margin="10" src="https://github-readme-stats.vercel.app/api?username=moh1384-prg&card_width-320" height="220" alt="streak graph"  />
+  <img align="center" margin="10"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh1384-prg&layout=pie&card_width-320" height="220"/>  
 </div>
 
 
