@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
- <a href="https://www.linkedin.com/in/medalibra/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+ <a href="https://www.linkedin.com/in/medalibra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
  
 </div>
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p>I am a Junior Full Stack Developer with a strong foundation recently acquired through an intensive 12 weeks coding bootcamp at <a href="https://www.lewagon.com/web-development-course">Le Wagon</a>.
+<p>I am a Junior Full Stack Developer with a strong foundation recently acquired through an intensive 12 weeks coding bootcamp at <a href="https://www.lewagon.com/web-development-course">Le Wagon</a> .
 
 In my previous roles, I have successfully transitioned from diverse professions, including working as an Oil & Gas Directional Driller & Minicab Driver, to then the world of full stack web development. During this I have had the opportunity to work on a couple projects, such as a full stack web application (G.P.Ice) and an Airbnb like clone called Vista Villa. These experiences have equipped me with a comprehensive understanding of user needs and the ability to create meaningful digital experiences.
 My background in different professional fields has developed my problem-solving skills and user-focused approach, which I am eager to apply further in future projects. I am passionate about building user-friendly, scalable web applications and continuously improving my technical skills.</p>
